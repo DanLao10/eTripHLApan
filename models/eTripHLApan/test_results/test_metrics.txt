@@ -1,0 +1,32 @@
+======================================================================
+eTripHLApan Model - Test Results
+======================================================================
+
+Model: best_model_epoch2.pt
+Test data: ../for_prediction/test_data.txt
+Timestamp: 2025-12-28 13:10:24
+
+METRICS:
+Accuracy:  0.8483
+AUC:       0.9203
+Precision: 0.8644
+Recall:    0.8916
+F1-Score:  0.8778
+Sensitivity: 0.8916
+Specificity: 0.7802
+
+CONFUSION MATRIX:
+True Negatives:  142
+False Positives: 40
+False Negatives: 31
+True Positives:  255
+
+CLASSIFICATION REPORT:
+              precision    recall  f1-score   support
+
+    Negative       0.82      0.78      0.80       182
+    Positive       0.86      0.89      0.88       286
+
+    accuracy                           0.85       468
+   macro avg       0.84      0.84      0.84       468
+weighted avg       0.85      0.85      0.85       468
