@@ -1,6 +1,6 @@
 # eTripHLApan: Enhanced HLA-I Peptide Binding Prediction
 
-Enhanced HLA-I peptide binding prediction using transfer learning and BLOSUM62 encoding, built on top of the original [TripHLApan](https://github.com/Bindingprediction/TripHLApan).
+Enhanced HLA-I peptide binding prediction using transfer learning and BLOSUM62 encoding, built on top of the original [TripHLApan](https://github.com/CSUBioGroup/TripHLApan).
 
 **Paper:** *eTripHLApan: Improving HLA-I Peptide Binding Prediction through Transfer Learning and BLOSUM62 Encoding* — IWBBIO 2026 (link coming soon)
 
@@ -87,4 +87,4 @@ If you use this work, please cite the IWBBIO 2026 paper (link and citation to be
 
 ## License
 
-This project builds on the original TripHLApan. Please refer to the [original repository](https://github.com/Bindingprediction/TripHLApan) for license terms.
+This project builds on the original TripHLApan. Please refer to the [original repository](https://github.com/CSUBioGroup/TripHLApan) for license terms.
